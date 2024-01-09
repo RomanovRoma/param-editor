@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/param-editor/static/css/main.051187cd.css",
+    "main.js": "/param-editor/static/js/main.83e3b2e3.js",
+    "index.html": "/param-editor/index.html",
+    "main.051187cd.css.map": "/param-editor/static/css/main.051187cd.css.map",
+    "main.83e3b2e3.js.map": "/param-editor/static/js/main.83e3b2e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.051187cd.css",
+    "static/js/main.83e3b2e3.js"
+  ]
+}
