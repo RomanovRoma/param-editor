@@ -1,4 +1,4 @@
-# Pokemon DB App (React, Redux, Bootstrap)
+# Param Editor App (React, CSS-modules)
 
 <a href="https://romanovroma.github.io/param-editor/" target="_blank">Check the Demo</a>
 
